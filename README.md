@@ -110,5 +110,5 @@ Quartz의 전체 구조와 흐름을 잘 보여주는 그림이다. Quartz의 �
 <img src="https://user-images.githubusercontent.com/47962660/66456764-7b44f480-eaa9-11e9-945c-006b738a95bc.png"/>
 
 ## 레퍼런스
-https://brunch.co.kr/@springboot/53
+https://brunch.co.kr/@springboot/53<br>
 https://advenoh.tistory.com/51?category=1012992
