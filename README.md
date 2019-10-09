@@ -108,3 +108,7 @@ Terracotta라는 회사에서 개발된 Job Scheduling 라이브러리이다. �
 ## Quartz 구성요소
 Quartz의 전체 구조와 흐름을 잘 보여주는 그림이다. Quartz의 세밀한 설정을 이해하는데 공식 문서도 도움이 되지만, 실제 소스코드를 보면 Quartz의 동작과 전체 아키텍처 구조를 이해하는데 많은 도움이 된다.<br><br>
 <img src="https://user-images.githubusercontent.com/47962660/66456764-7b44f480-eaa9-11e9-945c-006b738a95bc.png"/>
+
+## 레퍼런스
+https://brunch.co.kr/@springboot/53
+https://advenoh.tistory.com/51?category=1012992
